@@ -1,0 +1,1 @@
+{\n  "name": "hlpfl-news",\n  "version": "1.0.0",\n  "private": true,\n  "dependencies": {\n    "next": "15.3.2",\n    "react": "19.1.0",\n    "react-dom": "19.1.0",\n    "typescript": "latest",\n    "tailwindcss": "latest"\n  }\n}
